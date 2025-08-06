@@ -1,8 +1,8 @@
 ## 💜 Hello World!"I'm Loriane and I'm diving into the world of Data Science!"
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorianematos&show_icons=true&theme=radical&title_color=D8B7DD&icon_color=D8B7DD&text_color=ffffff&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorianematos&layout=compact&langs_count=7&theme=radical&title_color=D8B7DD&text_color=ffffff&bg_color=000000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lorianematos&show_icons=true&theme=radical&title_color=D8B7DD&icon_color=D8B7DD&text_color=ffffff&bg_color=000000"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorianematos&layout=compact&langs_count=7&theme=radical&title_color=D8B7DD&text_color=ffffff&bg_color=000000"/>
 </div>
 ---
 
